@@ -1,6 +1,5 @@
-def hello();
-  print("hello world")
-  
+def hello()
+    print("hello world")
+    
 
-
- print("Welcome")
+print("Welcome")
